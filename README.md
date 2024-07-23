@@ -1,2 +1,2 @@
 # password-complexity-checker
-prodigy internship task2
+prodigy internship task3
